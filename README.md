@@ -1,2 +1,2 @@
 # IC_mokoto
-pierwsze próby Mokoto
+pierwsze próby Motoko
